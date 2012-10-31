@@ -14,11 +14,11 @@ O Programa tem previsão de três anos de duração e será executado conjuntame
 
 A Coordenação do Programa – UCP será efetuada pela Secretaria de Estado de Planejamento e Orçamento (SEPLAN), sob a supervisão direta do Secretário da SEPLAN.
 
-Neste sentido, a  do Distrito Federal – SEG deseja dispor dos serviços profissionais de um consultor técnico para realizar plotagem de informações estatísticas pertinentes dos mapas das regiões administrativas A Secretaria de Governo do Distrito Federal é área de governo responsável pelo diálogo social, ou seja, por coordenar a articulação do GDF com a sociedade civil, com vistas à consolidação de uma gestão pública participava e interativa, voltada para o cidadão. Entre as ações que desenvolve, consta o acompanhamento às Conferências e Conselhos de políticas públicas, orçamento participativo, audiências públicas, entre outros mecanismos de participação social. Em destaque estão duas iniciativas: a coordenação do Conselho de Desenvolvimento Econômico e Social do Distrito Federal – CDES DF, e o Observatório da Participação Social.
+Neste sentido, a Secretaria de Governo do Distrito Federal – SEG deseja dispor dos serviços profissionais de um consultor técnico para realizar plotagem de informações estatísticas pertinentes dos mapas das regiões administrativas A Secretaria de Governo do Distrito Federal é área de governo responsável pelo diálogo social, ou seja, por coordenar a articulação do GDF com a sociedade civil, com vistas à consolidação de uma gestão pública participava e interativa, voltada para o cidadão. Entre as ações que desenvolve, consta o acompanhamento às Conferências e Conselhos de políticas públicas, orçamento participativo, audiências públicas, entre outros mecanismos de participação social. Em destaque estão duas iniciativas: a coordenação do Conselho de Desenvolvimento Econômico e Social do Distrito Federal – CDES DF, e o Observatório da Participação Social.
 
 O CDES DF, baseado na exitosa experiência do governo federal brasileiro – e de governos estaduais como os da Bahia, Rio Grande do Sul e Pernambuco, e de outros países, como Espanha, Portugal, Coréia do Sul – se constitui em uma metodologia de governança onde estão reunidos os principais empresários, lideranças dos movimentos sociais e personalidades (intelectuais e formadores de opinião), além de representante do primeiro escalão do governo, em torno do objetivo de construírem propostas para o desenvolvimento estratégico do DF para as próximas décadas. O Observatório da Participação Social reúne instituições de pesquisa como o IPEA, a CODEPLAN, a Universidade de Brasília – UNB, a Universidade Católica de Brasília – UNB e o Centro Universitário de Brasília – CEUB, além do GDF e de várias instituições da sociedade civil, com o objetivo de analisar e divulgar informações estratégicas que possibilitem à participação social alcançar níveis elevados de efetividade junto ao GDF.
 
-A consultoria proposta visa consolidar uma metodologia de geoprocessamento de dados que possa ser utilizada tanto pelo CDES DF como pelo Observatório da Participação Social. Além de ser uma ferramenta de grande utilidade para a tomada de decisão, a possibilidade de plotagem de dados, estudos e propostas em mapas, na proposta aqui apresentada, prevê a interatividade entre governo e sociedade civil. As bases a serem construídas serão compartilhadas entre gestores e representantes da participação social, possibilitando a criação de infográficos e o georreferenciamento das informações utilizadas por conselheiros do CDES DF e por representantes dos diversos mecanismos de participação social alvo do Observatório da Participação Social.
+A consultoria proposta visa consolidar uma metodologia de geoprocessamento de dados que possa ser utilizada tanto pelo CDES DF como pelo Observatório da Participação Social. Além de ser uma ferramenta de grande utilidade para a tomada de decisão, a possibilidade de plotagem de dados, estudos e propostas em mapas, na proposta aqui apresentada, prevê a interatividade entre governo e sociedade civil.As bases a serem construídas serão compartilhadas entre gestores e representantes da participação social, possibilitando a criação de infográficos e o georreferenciamento das informações utilizadas por conselheiros do CDES DF e por representantes dos diversos mecanismos de participação social alvo do Observatório da Participação Social.
 
 2. OBJETIVO GERAL
 
@@ -26,15 +26,15 @@ Contratar consultor individual para desenvolver sistema de informações geográ
 
 3. ATIVIDADES A SEREM DESENVOLVIDAS
 
-O consultor técnico deverá desenvolver as atividades e apresentar os seguintes produtos:
+O consultor técnico deverá desenvolver as atividades de forma aberta e transparente através de ferramentas abertas à colaboração e edição por terceiros com controle de versão e apresentar os seguintes produtos:
 
 i) Relatório 1: Sistema web de georreferenciamento em software livre, contendo bases cartográficas do território do Distrito Federal e Entorno, suas estruturas menores com alimentação de informações oriundas de até 5 indicadores sociais;
 
 ii) Relatório 2: Relatório final contendo metodologia de alimentação da base cartográfica e da base de indicadores.
 
-Além disso, o consultor deverá, sempre que solicitado pela contratante: a.
+Além disso, o consultor deverá, sempre que solicitado pela contratante: 
 
-Discutir com os servidores do GDF diretamente envolvidos com a participação social no DF e com os representantes da sociedade civil integrantes do observatório da participação social e do CDES DF as atividades realizadas e os documentos, relatórios e propostas elaboradas no curso da consultoria, visando à disseminação dos conhecimentos e conteúdos abordados.
+a. Discutir com os servidores do GDF diretamente envolvidos com a participação social no DF e com os representantes da sociedade civil integrantes do observatório da participação social e do CDES DF as atividades realizadas e os documentos, relatórios e propostas elaboradas no curso da consultoria, visando à disseminação dos conhecimentos e conteúdos abordados.
 
 4. ASPECTOS DA CONTRATAÇÃO
 
@@ -100,7 +100,9 @@ O Sistema citado no produto 1 deve ser capaz de apresentar saída de informaçõ
 
 10. O acompanhamento da consultoria será efetuado pela Secretaria de Estado de Governo.
 
-11. A consultoria atuará em Brasília-DF, na SEG, que disponibilizará local para reuniões, discussões técnicas e apresentação de produtos, assim como facilitará o acesso do consultor às informações pertinentes à sua área de atuação, agendará reuniões e participará das mesmas com as demais equipes coexecutoras das atividades e projetos. 
+11. O candidato aprovado compromete-se a utilizar ferramentas de colaboração on-line para desenvolver os seus produtos e permitir o acompanhamento público do desenvolvimento do produto. Caso o candidato não tenha conhecimento sobre as ferramentas, será ministrado um treinamento rápido de *3 dias* para a capacitação em ferramentas de versionamento de código, edição colaborativa, listas de discussão e redes sociais.
+
+12. A consultoria atuará em Brasília-DF, na SEG, que disponibilizará local para reuniões, discussões técnicas e apresentação de produtos, assim como facilitará o acesso do consultor às informações pertinentes à sua área de atuação, agendará reuniões e participará das mesmas com as demais equipes coexecutoras das atividades e projetos. 
 
 Brasília, 18 de outubro de 2012.
 REINALDO CHAVES GOMES
@@ -109,8 +111,9 @@ Aprovo o presente Termo de Referência.
 GUSTAVO PONCE DE LEON SORIANO LAGO
 Secretário de Estado de Governo
 
-ANEXO I
-CRITÉRIOS DE AVALIAÇÃO
+
+## ANEXO I
+## CRITÉRIOS DE AVALIAÇÃO
 Esta seleção obedecerá ao disposto no Capítulo V - Seleção de Consultores
 Individuais, das Diretrizes para Seleção e Contratação de Consultores pelos Mutuários do
 Banco Mundial, de Maio de 2004 (Revisadas em 1o de outubro de 2006), conforme
@@ -123,377 +126,186 @@ comprobatória, para avaliação das qualificações acadêmicas e profissionais
 Fase 3 - Negociação com o melhor colocado e assinatura do contrato (Anexo II), que
 deverá incorporar os Termos de Referência e ser adequado aos serviços e ao perfil do
 profissional selecionado.
+
 1. Perfil do Profissional
 Requisitos obrigatórios para a contratação do consultor:
-
-
-
-Graduação em geografia, engenharia, ciências da terra, ciências da informação ou
-áreas afins;
-Experiência com software livre e/ou dados abertos;
-Mínimo de 2 (dois) anos de experiência profissional com geoprocessamento de
-dados.
-8GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
+* Graduação em geografia, engenharia, ciências da terra, ciências da informação ou áreas afins;
+* Experiência com software livre e/ou dados abertos;
+* Mínimo de 2 (dois) anos de experiência profissional com geoprocessamento de dados.
+
 2. Avaliação Curricular
-A avaliação das Qualificações Acadêmicas e Profissionais será realizada conforme
-os quesitos indicados na tabela abaixo:
+A avaliação das Qualificações Acadêmicas e Profissionais será realizada conforme os quesitos indicados na tabela abaixo:
 Tabela de Pontuação
-Tipo
-Pós-graduação lato sensu ou
-stricto sensu (concluída) em
-área ligada ao
-geoprocessamento de dados
-Pontos
-Máximo de Pontos
-10 pontos para cada pós-
-graduação, até o limite de 03
-30
-(três) pós-graduações
-Experiência profissional em 05 pontos para cada projeto
-projetos utilizando software comprovado, até o limite de
-livre de georreferenciamento 05 (cinco) projetos
-Experiência profissional em 05 pontos para cada projeto
-projetos utilizando software comprovado, até o limite de
-livre de estatística
-25
-25
-05 (cinco) projetos
-05 pontos para cada
-Experiência em prospecção
-de dados abertos
-experiência comprovada, até
-o limite de 04 (quatro)
-20
-experiências
-Total de Pontuação
-100
-(*) Os Requisitos Obrigatórios exigidos para participar desta seleção não serão
-considerados para pontuação.
-9GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-A classificação dos profissionais será consolidada de acordo com os Modelos I e II abaixo:
-No
-Nome do Candidato
-Data de Postagem
-(Limite: xx/xx/2012)
-Graduação em geografia,
-engenharia, ciências da
-terra, ciências da
-informação ou áreas afins
-(S ou N)
-Experiência com
-software livre e/ou
-dados abertos
-(S ou N)
-Mínimo de 2 (dois) anos de
-experiência profissional com
-geoprocessamento de dados
-(S ou N)
-Resultado
-10GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-MODELO II
-AVALIAÇÃO CURRICULAR
-Qualificação
-Qualificação Profissional
-Experiência profissional
-Nome do Candidato
-Acadêmica
-Experiência profissional em projetos
-utilizando software livre de
-estatística (20)
-Nota Final
-(Máximo de 100 pontos)
-Experiência em prospecção de dados
-abertos (25)
-11GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
+||Tipo|Pontos|Máximo de Pontos||
+||Pós-graduação lato sensu ou stricto sensu (concluída) em área ligada ao geoprocessamento de dados| 10 pontos para cada pós-graduação, até o limite de 03(três) pós-graduações|30||
+||Experiência profissional em projetos utilizando software livre de georreferenciamento|05 pontos para cada projeto comprovado, até o limite de  05 (cinco) projetos|25||
+||Experiência profissional em projetos utilizando software livre de estatística|05 pontos para cada projeto comprovado, até o limite de 05 (cinco) projetos|25||
+||Experiência em prospecção de dados abertos|05 pontos para cada experiência comprovada, até o limite de 04 (quatro) experiências|20||
+
+||Total de Pontuação|100||
+(\*) Os Requisitos Obrigatórios exigidos para participar desta seleção não serão considerados para pontuação.
+
+
 3. Normas Gerais
-A análise das propostas será realizada em uma única fase, que será a Fase 2, onde se
-realizará a avaliação curricular.
-A pontuação máxima de cada candidato será a soma dos pontos obtidos na avaliação
-curricular.
-Será selecionado o candidato que obtiver a maior pontuação na avaliação curricular,
-resultante da soma dos pontos nos itens Qualificação Acadêmica e Qualificação Profissional.
-A comprovação da escolaridade será feita por meio de diploma expedido por instituição
-credenciada.
+A análise das propostas será realizada em uma única fase, que será a Fase 2, onde se realizará a avaliação curricular.
+A pontuação máxima de cada candidato será a soma dos pontos obtidos na avaliação curricular.
+Será selecionado o candidato que obtiver a maior pontuação na avaliação curricular, resultante da soma dos pontos nos itens Qualificação Acadêmica e Qualificação Profissional.
+A comprovação da escolaridade será feita por meio de diploma expedido por instituição credenciada.
 A comprovação da Qualificação Profissional dar-se-á pela apresentação de:
-(i)
-atestado de capacidade técnica emitido por entidade pública ou privada, que
+(i) atestado de capacidade técnica emitido por entidade pública ou privada, que
 contemple atividade ou trabalho desenvolvido e o período da realização dos
 trabalhos;
 (ii) cópia autenticada de contrato de trabalho ou;
 (iii) cópia autenticada da carteira profissional.
+
 Em caso de empate, será considerado melhor classificado o consultor que obtiver a
 maior pontuação nesta ordem:
 1) Qualificação profissional;
 2) Qualificação acadêmica;
 3) For o mais idoso.
+
 4. Padrões de Desempenho
 O Consultor se obriga a executar as atividades e os serviços de acordo com os mais
 elevados padrões de competência e integridade profissional e ética.
-12GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
+
 5. Sigilo
-O Consultor não deverá, no decorrer do Contrato e por 2 (dois) anos contados de seu
-término, divulgar informações confidenciais relativas ao Serviço previsto neste Termo de
-Referência, sem o seu prévio e escrito consentimento do Governo do Distrito Federal.
+O Consultor não deverá, no decorrer do Contrato e por 2 (dois) anos contados de seu término, divulgar informações confidenciais relativas ao Serviço previsto neste Termo de Referência, sem o seu prévio e escrito consentimento do Governo do Distrito Federal.
+
 6. Propriedade do Material
-Todas as análises, estudos, relatórios ou outros materiais elaborados pelo Consultor para
-o CONTRATANTE, previstos neste Termo de Referência, pertencerão exclusivamente ao
-Governo do Distrito Federal.
-O Consultor poderá reter uma cópia de tais documentos, com exceção das licencias de
-softwares sujeitos a royalties a terceiros utilizados para o desenvolvimento de tais materiais.
+Todas as análises, estudos, relatórios ou outros materiais elaborados pelo Consultor para o CONTRATANTE, previstos neste Termo de Referência, pertencerão exclusivamente ao Governo do Distrito Federal.
+O Consultor poderá reter uma cópia de tais documentos, com exceção das licencias de softwares sujeitos a royalties a terceiros utilizados para o desenvolvimento de tais materiais.
+
 7. Fraude e Corrupção
-O Consultor deve observar e fazer observar, por seus fornecedores e subcontratados, se
-admitida subcontratação, o mais alto padrão de ética durante todo o processo de contratação e
-de execução do objeto contratual.
+O Consultor deve observar e fazer observar, por seus fornecedores e subcontratados, se admitida subcontratação, o mais alto padrão de ética durante todo o processo de contratação e de execução do objeto contratual.
 Para os propósitos desta cláusula, definem-se as seguintes práticas:
-a) “prática corrupta”: oferecer, dar, receber ou solicitar, direta ou indiretamente,
-qualquer vantagem com o objetivo de influenciar a ação de servidor público no processo de
-licitação ou na execução de contrato.
-b) “prática fraudulenta”: a falsificação ou omissão dos fatos, com o objetivo de
-influenciar o processo de licitação ou de execução de contrato.
-c) “prática conluiada”: esquematizar ou estabelecer um acordo entre dois ou mais
-licitantes, com ou sem o conhecimento de representantes ou prepostos do órgão licitador,
-visando estabelecer preços em níveis artificiais e não-competitivos.
-13GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-d) “prática coercitiva”: causar dano ou ameaçar causar dano, direta ou indiretamente, às
-pessoas ou sua propriedade, visando influenciar sua participação em um processo licitatório
-ou afetar a execução do contrato.
-e) “prática obstrutiva”: (i) destruir, falsificar, alterar ou ocultar provas em inspeções ou
-fazer declarações falsas aos representantes do organismo financeiro multilateral, com o
-objetivo de impedir materialmente a apuração de alegações de prática prevista acima; (ii) atos
-cuja intenção seja impedir materialmente o exercício do direito de o organismo financeiro
-multilateral promover inspeção.
-Na hipótese de financiamento, parcial ou integral, por organismo financeiro multilateral,
-mediante adiantamento ou reembolso, este organismo imporá sanção sobre uma empresa ou
-pessoa física, inclusive declarando-a inelegível, indefinidamente ou por prazo determinado,
-para a outorga de contratos financiados pelo organismo se, em qualquer momento, constatar o
-envolvimento da empresa, diretamente ou por meio de um agente, em práticas corruptas,
-fraudulentas, colusivas, coercitivas ou obstrutivas ao participar da licitação ou da execução
-um contrato financiado pelo organismo.
-Considerando os propósitos das cláusulas acima, o Consultor concorda e autoriza que,
-na hipótese de o contrato vir a ser financiado, em parte ou integralmente, por organismo
-financeiro multilateral, mediante adiantamento ou reembolso, o organismo financeiro e/ou
-pessoas por ele formalmente indicadas possam inspecionar o local de execução do contrato e
-todos os documentos, contas e registros relacionados à licitação e à execução do contrato.
-14GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-ANEXO II
-MINUTA DE CONTRATO
-CONTRATO
-DE
-PRESTAÇÃO
-DE
-SERVIÇOS DE CONSULTORIA No
-/2012
+a) “prática corrupta”: oferecer, dar, receber ou solicitar, direta ou indiretamente, qualquer vantagem com o objetivo de influenciar a ação de servidor público no processo de licitação ou na execução de contrato.
+b) “prática fraudulenta”: a falsificação ou omissão dos fatos, com o objetivo de influenciar o processo de licitação ou de execução de contrato.
+c) “prática conluiada”: esquematizar ou estabelecer um acordo entre dois ou mais licitantes, com ou sem o conhecimento de representantes ou prepostos do órgão licitador, visando estabelecer preços em níveis artificiais e não-competitivos.
+d) “prática coercitiva”: causar dano ou ameaçar causar dano, direta ou indiretamente, às pessoas ou sua propriedade, visando influenciar sua participação em um processo licitatório ou afetar a execução do contrato.
+e) “prática obstrutiva”: 
+	(i) destruir, falsificar, alterar ou ocultar provas em inspeções ou fazer declarações falsas aos representantes do organismo financeiro multilateral, com o objetivo de impedir materialmente a apuração de alegações de prática prevista acima; 
+	(ii) atos cuja intenção seja impedir materialmente o exercício do direito de o organismo financeiro multilateral promover inspeção.
+
+Na hipótese de financiamento, parcial ou integral, por organismo financeiro multilateral, mediante adiantamento ou reembolso, este organismo imporá sanção sobre uma empresa ou pessoa física, inclusive declarando-a inelegível, indefinidamente ou por prazo determinado, para a outorga de contratos financiados pelo organismo se, em qualquer momento, constatar o envolvimento da empresa, diretamente ou por meio de um agente, em práticas corruptas, fraudulentas, colusivas, coercitivas ou obstrutivas ao participar da licitação ou da execução um contrato financiado pelo organismo.
+Considerando os propósitos das cláusulas acima, o Consultor concorda e autoriza que, na hipótese de o contrato vir a ser financiado, em parte ou integralmente, por organismo financeiro multilateral, mediante adiantamento ou reembolso, o organismo financeiro e/ou
+pessoas por ele formalmente indicadas possam inspecionar o local de execução do contrato e todos os documentos, contas e registros relacionados à licitação e à execução do contrato.
+
+## ANEXO II
+## MINUTA DE CONTRATO
+### CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE CONSULTORIA No /2012
 – SEG REFERENTE AO PROJETO
 GESTÃO GDF/SEPLAN DECORRENTE DO
 ACORDO DE EMPRÉSTIMO N.o 7675-BR.
 PROCESSO N.o:__________________/______
-O Distrito Federal, por meio da Secretaria de Estado de Governo - SEG, representado por
-Gustavo Ponce de León Soriano Lago, na qualidade de Secretário de Estado de Governo, com
-delegação de competência prevista nas normas vigentes, doravante denominado
-CONTRATANTE e _______________________________________, doravante denominado
-CONSULTOR, CPF n.o _____________, Carteira de Identidade n.o _____________, têm
-entre si justo e acordados a celebração do presente Contrato de Prestação de Serviços de
-Consultoria, sujeitando-se as partes às condições fixadas no Termo de Referência para
-Contratação de Consultor Individual para Apoiar nos Processos de Seleção/Aquisição do
-Programa Gestão GDF, mediante as seguintes cláusulas e condições:
-DECLARAÇÕES
+O Distrito Federal, por meio da Secretaria de Estado de Governo - SEG, representado por Gustavo Ponce de León Soriano Lago, na qualidade de Secretário de Estado de Governo, com delegação de competência prevista nas normas vigentes, doravante denominado
+CONTRATANTE e _______________________________________, doravante denominado CONSULTOR, CPF n.o _____________, Carteira de Identidade n.o _____________, têm entre si justo e acordados a celebração do presente Contrato de Prestação de Serviços de Consultoria, sujeitando-se as partes às condições fixadas no Termo de Referência para Contratação de Consultor Individual para Apoiar nos Processos de Seleção/Aquisição do Programa Gestão GDF, mediante as seguintes cláusulas e condições:
+## DECLARAÇÕES
 1- A SEG declara:
-a) Que o GDF realizou junto ao Banco Internacional para Reconstrução e
-Desenvolvimento – BIRD a celebração do Acordo de Empréstimo no 7675-BR, com
-vistas à implementação do Programa de Modernização da Gestão Pública do DF –
-Programa Gestão GDF;
-b) Que o presente Contrato de Prestação de Serviços de Consultoria é efetuado para que
-seja cumprido o Termo de Referência, previamente aprovado pelo BIRD, parte
-integrante deste contrato, elaborado em conformidade com o Plano Operativo do
-Programa Gestão GDF;
-c) Que, em virtude das características e qualidades profissionais do CONSULTOR,
-decidiu encomendar-lhe os trabalhos especificados no Termo e Referência; e
-d) Que o presente Contrato tem por finalidade atender as atividades de Seleção e
-Aquisições, no âmbito do Programa Gestão GDF, conforme especificado no Termo de
-Referência.
+a) Que o GDF realizou junto ao Banco Internacional para Reconstrução e Desenvolvimento – BIRD a celebração do Acordo de Empréstimo no 7675-BR, com vistas à implementação do Programa de Modernização da Gestão Pública do DF – Programa Gestão GDF;
+b) Que o presente Contrato de Prestação de Serviços de Consultoria é efetuado para que seja cumprido o Termo de Referência, previamente aprovado pelo BIRD, parte integrante deste contrato, elaborado em conformidade com o Plano Operativo do Programa Gestão GDF;
+c) Que, em virtude das características e qualidades profissionais do CONSULTOR, decidiu encomendar-lhe os trabalhos especificados no Termo e Referência; e
+d) Que o presente Contrato tem por finalidade atender as atividades de Seleção e Aquisições, no âmbito do Programa Gestão GDF, conforme especificado no Termo de Referência.
+
 2- O CONSULTOR declara:
-a) Que as informações apresentadas à SEG sobre suas qualificações de pessoa física e
-trajetória profissional são corretas e fidedignas;
-15GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-b) Que conhece plenamente o Termo de Referência para Contratação de Consultor
-Individual para desenvolver sistema de informações geográficas em software livre
-para web visando o geoprocessamento e criação de infográficos para subsidiarem os
-trabalhos dos conselheiros do CDES-DF e os trabalhos do Observatório da
-Participação Social do DF;
-c) Que em virtude deste Contrato se compromete a cumprir os regulamentos e
-disposições da SEG no que se aplica à sua condição de consultor; e
-d) Que não exerce e não virá a exercer, durante a vigência deste Contrato, qualquer cargo
-público, salvo as exceções previstas em lei.
-CONDIÇÕES CONTRATUAIS
-CLÁUSULA PRIMEIRA – Do Procedimento
-O presente Contrato obedece aos Termos das Diretrizes de Seleção e Contratação de
-Consultores pelos Mutuários do Banco Mundial, fls. ______, e subsidiariamente da Lei no
-8.666 de 21 de junho de 1993.
-CLÁUSULA SEGUNDA – Do Objeto
-O presente Contrato tem por objetivo disciplinar as relações entre as partes contratantes, no
-desenvolvimento e execução dos serviços de consultoria, em conformidade com o
-estabelecido no Termo de Referência para Contratação de Consultor Individual para
-desenvolver sistema de informações geográficas em software livre para web visando o
-geoprocessamento e criação de infográficos para subsidiarem os trabalhos dos conselheiros do
-CDES-DF e os trabalhos do Observatório da Participação Social do DF, aprovado pelo BIRD
-e pela Coordenação do Programa - UCP, parte integrante deste Contrato.
-CLÁUSULA TERCEIRA – Dos Direitos Autorais
-O CONTRATANTE poderá utilizar livremente qualquer contribuição científica feita pelo
-CONSULTOR na execução deste Contrato, assim como publicar o resultado do trabalho, sem
-pagamento de direitos autorais. Para publicação, por parte do CONSULTOR, de qualquer
-informação obtida através deste Contrato é necessária autorização prévia e formal do
+a) Que as informações apresentadas à SEG sobre suas qualificações de pessoa física e trajetória profissional são corretas e fidedignas;
+b) Que conhece plenamente o Termo de Referência para Contratação de Consultor Individual para desenvolver sistema de informações geográficas em software livre para web visando o geoprocessamento e criação de infográficos para subsidiarem os trabalhos dos conselheiros do CDES-DF e os trabalhos do Observatório da Participação Social do DF;
+c) Que em virtude deste Contrato se compromete a cumprir os regulamentos e disposições da SEG no que se aplica à sua condição de consultor; e 
+d) Que não exerce e não virá a exercer, durante a vigência deste Contrato, qualquer cargo público, salvo as exceções previstas em lei.
+
+## CONDIÇÕES CONTRATUAIS
+## CLÁUSULA PRIMEIRA – Do Procedimento
+O presente Contrato obedece aos Termos das Diretrizes de Seleção e Contratação de Consultores pelos Mutuários do Banco Mundial, fls. ______, e subsidiariamente da Lei no 8.666 de 21 de junho de 1993.
+## CLÁUSULA SEGUNDA – Do Objeto
+O presente Contrato tem por objetivo disciplinar as relações entre as partes contratantes, no desenvolvimento e execução dos serviços de consultoria, em conformidade com o estabelecido no Termo de Referência para Contratação de Consultor Individual para desenvolver sistema de informações geográficas em software livre para web visando o geoprocessamento e criação de infográficos para subsidiarem os trabalhos dos conselheiros do CDES-DF e os trabalhos do Observatório da Participação Social do DF, aprovado pelo BIRD e pela Coordenação do Programa - UCP, parte integrante deste Contrato.
+## CLÁUSULA TERCEIRA – Dos Direitos Autorais
+O CONTRATANTE poderá utilizar livremente qualquer contribuição científica feita pelo CONSULTOR na execução deste Contrato, assim como publicar o resultado do trabalho, sem pagamento de direitos autorais. Para publicação, por parte do CONSULTOR, de qualquer informação obtida através deste Contrato é necessária autorização prévia e formal do CONTRATANTE.
+## CLÁUSULA QUARTA – Do Regime Jurídico
+4.1 - Em face do objetivo deste contrato, fica expressamente estabelecidos que serão considerados incompatíveis com seus termos qualquer subordinação hierárquica, dependência funcional, administrativa, técnica ou de qualquer outra natureza, entre o CONSULTOR e o
 CONTRATANTE.
-CLÁUSULA QUARTA – Do Regime Jurídico
-4.1 - Em face do objetivo deste contrato, fica expressamente estabelecidos que serão
-considerados incompatíveis com seus termos qualquer subordinação hierárquica, dependência
-funcional, administrativa, técnica ou de qualquer outra natureza, entre o CONSULTOR e o
-CONTRATANTE.
-16GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-CLÁUSULA QUINTA – Do Valor
-5.1 - O CONTRATANTE pagará ao CONSULTOR, a título de remuneração pelos serviços
-de Consultoria descriminados no Termo de Referência, a quantia de R$ 17.000,00 (Dezessete
-mil reais).
-5.2 - As despesas do CONSULTOR com hospedagem e alimentação, nas viagens de trabalho
-referentes ao presente Contrato, desde que previstas no Termo de Referência e aprovadas pelo
-Secretário de Estado de Governo e pelo Coordenador do Programa, serão arcadas com
-recursos do Acordo de Empréstimo no 7675-BR, podendo para tanto realizar adiantamento
-financeiro para viagens, observada a legislação vigente.
-CLÁUSULA SEXTA – Da Fonte de Recursos e Dotação Orçamentária
-As despesas com a execução dos serviços, objeto deste Contrato, serão custeados com
-recursos provenientes do Acordo de Empréstimo no 7675-BR, designados ao Componente 2
-do Programa Gestão GDF, e correrão à conta da seguinte Dotação Orçamentária:
+
+## CLÁUSULA QUINTA – Do Valor
+5.1 - O CONTRATANTE pagará ao CONSULTOR, a título de remuneração pelos serviços de Consultoria descriminados no Termo de Referência, a quantia de R$ 17.000,00 (Dezessete mil reais).
+5.2 - As despesas do CONSULTOR com hospedagem e alimentação, nas viagens de trabalho referentes ao presente Contrato, desde que previstas no Termo de Referência e aprovadas pelo Secretário de Estado de Governo e pelo Coordenador do Programa, serão arcadas com
+recursos do Acordo de Empréstimo no 7675-BR, podendo para tanto realizar adiantamento financeiro para viagens, observada a legislação vigente.
+
+## CLÁUSULA SEXTA – Da Fonte de Recursos e Dotação Orçamentária
+As despesas com a execução dos serviços, objeto deste Contrato, serão custeados com recursos provenientes do Acordo de Empréstimo no 7675-BR, designados ao Componente 2 do Programa Gestão GDF, e correrão à conta da seguinte Dotação Orçamentária:
 I – Unidade Orçamentária: 32101
 II – Programa de Trabalho: 04.122.0850.3046.0001
 III – Natureza da Despesa: 339035
 IV – Fonte de Recursos: 136
-CLÁUSULA SÉTIMA – Do Pagamento
-7.1 - O pagamento será feito, de acordo com as Normas de Execução Orçamentária,
-Financeira e Contábil do Distrito Federal, em parcelas, mediante a apresentação dos relatórios
-previstos no Termo de Referência e dos comprovantes de recolhimento dos encargos
+
+## CLÁUSULA SÉTIMA – Do Pagamento
+7.1 - O pagamento será feito, de acordo com as Normas de Execução Orçamentária, Financeira e Contábil do Distrito Federal, em parcelas, mediante a apresentação dos relatórios previstos no Termo de Referência e dos comprovantes de recolhimento dos encargos
 previdenciários, trabalhistas e fiscais, todos devidamente atestados pelo Executor do Contrato.
-7.2 - O CONTRATANTE poderá suspender o pagamento, caso o andamento das atividades,
-trabalhos e/ou produtos a serem desenvolvidos pelo CONSULTOR não estejam sendo
-realizados de acordo com o previsto no Termo de Referência.
-CLÁUSULA OITAVA – Do Prazo de Vigência
-O prazo de vigência deste Contrato é de 45 dias, com início em __________ e término em
-__________, improrrogáveis.
-CLÁUSULA NONA – Da responsabilidade do Contratante
-O CONTRATANTE responderá pelos danos que seus agentes, nessa qualidade, causarem a
-terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo e de culpa.
-Para consecução dos objetivos do presente Contrato o CONTRATANTE diligenciará no
+7.2 - O CONTRATANTE poderá suspender o pagamento, caso o andamento das atividades, trabalhos e/ou produtos a serem desenvolvidos pelo CONSULTOR não estejam sendo realizados de acordo com o previsto no Termo de Referência.
+
+## CLÁUSULA OITAVA – Do Prazo de Vigência
+O prazo de vigência deste Contrato é de 45 dias, com início em __________ e término em __________, improrrogáveis.
+
+## CLÁUSULA NONA – Da responsabilidade do Contratante
+O CONTRATANTE responderá pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo e de culpa. Para consecução dos objetivos do presente Contrato o CONTRATANTE diligenciará no
 sentido de que os trabalhos sejam iniciados de imediato e que prossigam sem interrupções.
-CLÁUSULA DÉCIMA – Das Obrigações e Responsabilidades do Consultor
+
+## CLÁUSULA DÉCIMA – Das Obrigações e Responsabilidades do Consultor
 O CONSULTOR se compromete a:
-17GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-1.
-Prestar seus serviços profissionais para a execução das atividades previstas no Termo
-de Referência para Contratação de Consultor Individual para desenvolver sistema de
-informações geográficas em software livre para web visando o geoprocessamento e criação de
-infográficos para subsidiarem os trabalhos dos conselheiros do CDES DF e os trabalhos do
-Observatório da Participação Social do DF, dentro da metodologia e de acordo com os
-padrões profissionais exigidos.
-2.
-Exercer suas atividades na sede do CONTRATANTE, podendo ser designado para
-execução de serviços em outras localidades do Estado ou de outros Estados.
-3.
-Apresentar ao CONTRATANTE os relatórios previstos no Termo de Referência para
-Contratação de Consultor Individual para realizar Prestar seus serviços profissionais para a
-execução das atividades previstas no Termo de Referência para Contratação de Consultor
-Individual para desenvolver sistema de informações geográficas em software livre para web
-visando o geoprocessamento e criação de infográficos para subsidiarem os trabalhos dos
-conselheiros do CDES-DF e os trabalhos do Observatório da Participação Social do DF.
-4.
-Apresentar ao CONTRATANTE, até o último dia útil do mês, comprovante de
-recolhimento dos encargos previdenciários, resultantes da execução do Contrato, e dos
-encargos trabalhistas e fiscais.
-CLÁUSULA DÉCIMA PRIMEIRA – Da Alteração Contratual
-11.1 - Toda e qualquer alteração deverá ser processada mediante a celebração de Termo
-Aditivo, com amparo no art. 65 da Lei no 8.666/93, vedada a modificação do objeto.
-11.2 - A alteração de valor contratual, decorrente do reajuste de preço, compensação ou
-penalização financeira, prevista no Contrato, bem como o empenho de dotações
-orçamentárias, suplementares, até o limite do respectivo valor, dispensa a celebração de
-aditamento.
-CLÁUSULA DÉCIMA SEGUNDA – Da Fraude e da Corrupção
-O CONSULTOR deve observar e fazer observar, por seus fornecedores e subcontratados, se
-admitida subcontratação, o mais alto padrão de ética durante todo o processo de contratação e
-de execução do objeto contratual.
-SUBCLÁUSULA PRIMEIRA - Para os propósitos desta cláusula, definem-se as
+
+1. Prestar seus serviços profissionais para a execução das atividades previstas no Termo de Referência para Contratação de Consultor Individual para desenvolver sistema de informações geográficas em software livre para web visando o geoprocessamento e criação de
+infográficos para subsidiarem os trabalhos dos conselheiros do CDES DF e os trabalhos do Observatório da Participação Social do DF, dentro da metodologia e de acordo com os padrões profissionais exigidos.
+
+2. Exercer suas atividades na sede do CONTRATANTE, podendo ser designado para execução de serviços em outras localidades do Estado ou de outros Estados.
+
+3. Apresentar ao CONTRATANTE os relatórios previstos no Termo de Referência para Contratação de Consultor Individual para realizar Prestar seus serviços profissionais para a execução das atividades previstas no Termo de Referência para Contratação de Consultor
+Individual para desenvolver sistema de informações geográficas em software livre para web visando o geoprocessamento e criação de infográficos para subsidiarem os trabalhos dos conselheiros do CDES-DF e os trabalhos do Observatório da Participação Social do DF.
+
+4.Apresentar ao CONTRATANTE, até o último dia útil do mês, comprovante de recolhimento dos encargos previdenciários, resultantes da execução do Contrato, e dos encargos trabalhistas e fiscais.
+
+## CLÁUSULA DÉCIMA PRIMEIRA – Da Alteração Contratual
+11.1 - Toda e qualquer alteração deverá ser processada mediante a celebração de Termo Aditivo, com amparo no art. 65 da Lei no 8.666/93, vedada a modificação do objeto.
+11.2 - A alteração de valor contratual, decorrente do reajuste de preço, compensação ou penalização financeira, prevista no Contrato, bem como o empenho de dotações orçamentárias, suplementares, até o limite do respectivo valor, dispensa a celebração de aditamento.
+
+## CLÁUSULA DÉCIMA SEGUNDA – Da Fraude e da Corrupção
+O CONSULTOR deve observar e fazer observar, por seus fornecedores e subcontratados, se admitida subcontratação, o mais alto padrão de ética durante todo o processo de contratação e de execução do objeto contratual.
+
+### SUBCLÁUSULA PRIMEIRA - Para os propósitos desta cláusula, definem-se as
 seguintes práticas:
-a) “prática corrupta”: oferecer, dar, receber ou solicitar, direta ou indiretamente,
-qualquer vantagem com o objetivo de influenciar a ação de servidor público no
-processo de licitação ou na execução de contrato;
-b) “prática fraudulenta”: a falsificação ou omissão dos fatos, com o objetivo de
-influenciar o processo de licitação ou de execução de contrato;
-c) “prática conluiada”: esquematizar ou estabelecer um acordo entre dois ou mais
-licitantes, com ou sem o conhecimento de representantes ou prepostos do órgão
-licitador, visando estabelecer preços em níveis artificiais e não-competitivos;
-18GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-d) “prática coercitiva”: causar dano ou ameaçar causar dano, direta ou
-indiretamente, às pessoas ou sua propriedade, visando influenciar sua participação
-em um processo licitatório ou afetar a execução do contrato;
-e) “prática obstrutiva”: (i) destruir, falsificar, alterar ou ocultar provas em
-inspeções ou fazer declarações falsas aos representantes do organismo financeiro
-multilateral, com o objetivo de impedir materialmente a apuração de alegações de
-prática prevista acima; (ii) atos cuja intenção seja impedir materialmente o
-exercício do direito de o organismo financeiro multilateral promover inspeção.
-SUBCLÁUSULA SEGUNDA - Na hipótese de financiamento, parcial ou integral,
-por organismo financeiro multilateral, mediante adiantamento ou reembolso, este
-organismo imporá sanção sobre uma empresa ou pessoa física, inclusive declarando-a
-inelegível, indefinidamente ou por prazo determinado, para a outorga de contratos
-financiados pelo organismo se, em qualquer momento, constatar o envolvimento da
-empresa, diretamente ou por meio de um agente, em práticas corruptas, fraudulentas,
-colusivas, coercitivas ou obstrutivas ao participar da licitação ou da execução um
-contrato financiado pelo organismo.
-SUBCLÁUSULA TERCEIRA - Considerando os propósitos das cláusulas acima, o
-CONSULTOR concorda e autoriza que, na hipótese de o contrato vir a ser financiado,
-em parte ou integralmente, por organismo financeiro multilateral, mediante
-adiantamento ou reembolso, o organismo financeiro e/ou pessoas por ele formalmente
-indicadas possam inspecionar o local de execução do contrato e todos os documentos,
-contas e registros relacionados à licitação e à execução do contrato.
-CLÁUSULA DÉCIMA TERCEIRA – Da Dissolução
-O Contrato poderá ser dissolvido de comum acordo, bastando, para tanto, manifestação
-escrita de uma das partes, com antecedência mínima de 60 (sessenta) dias, sem interrupção do
-curso normal da execução do Contrato.
-CLÁUSULA DÉCIMA QUARTA – Da Rescisão
-O contrato poderá ser rescindido por conveniência administrativa ou por descumprimento de
-uma das partes (CONSULTOR ou CONTRATANTE), de qualquer uma das cláusulas,
-assegurados o contraditório e a ampla defesa e com antecedência mínima de 15 (quinze) dias
+a) “prática corrupta”: oferecer, dar, receber ou solicitar, direta ou indiretamente, qualquer vantagem com o objetivo de influenciar a ação de servidor público no processo de licitação ou na execução de contrato;
+b) “prática fraudulenta”: a falsificação ou omissão dos fatos, com o objetivo de influenciar o processo de licitação ou de execução de contrato;
+c) “prática conluiada”: esquematizar ou estabelecer um acordo entre dois ou mais licitantes, com ou sem o conhecimento de representantes ou prepostos do órgão licitador, visando estabelecer preços em níveis artificiais e não-competitivos;
+d) “prática coercitiva”: causar dano ou ameaçar causar dano, direta ou indiretamente, às pessoas ou sua propriedade, visando influenciar sua participação em um processo licitatório ou afetar a execução do contrato;
+e) “prática obstrutiva”: 
+	(i) destruir, falsificar, alterar ou ocultar provas em inspeções ou fazer declarações falsas aos representantes do organismo financeiro multilateral, com o objetivo de impedir materialmente a apuração de alegações de prática prevista acima; 
+	(ii) atos cuja intenção seja impedir materialmente o exercício do direito de o organismo financeiro multilateral promover inspeção.
+
+### SUBCLÁUSULA SEGUNDA - Na hipótese de financiamento, parcial ou integral, por organismo financeiro multilateral, mediante adiantamento ou reembolso, este organismo imporá sanção sobre uma empresa ou pessoa física, inclusive declarando-a
+inelegível, indefinidamente ou por prazo determinado, para a outorga de contratos financiados pelo organismo se, em qualquer momento, constatar o envolvimento da empresa, diretamente ou por meio de um agente, em práticas corruptas, fraudulentas, colusivas, coercitivas ou obstrutivas ao participar da licitação ou da execução um contrato financiado pelo organismo.
+
+### SUBCLÁUSULA TERCEIRA - Considerando os propósitos das cláusulas acima, o CONSULTOR concorda e autoriza que, na hipótese de o contrato vir a ser financiado, em parte ou integralmente, por organismo financeiro multilateral, mediante adiantamento ou reembolso, o organismo financeiro e/ou pessoas por ele formalmente indicadas possam inspecionar o local de execução do contrato e todos os documentos, contas e registros relacionados à licitação e à execução do contrato.
+
+## CLÁUSULA DÉCIMA TERCEIRA – Da Dissolução
+O Contrato poderá ser dissolvido de comum acordo, bastando, para tanto, manifestação escrita de uma das partes, com antecedência mínima de 60 (sessenta) dias, sem interrupção do curso normal da execução do Contrato.
+
+## CLÁUSULA DÉCIMA QUARTA – Da Rescisão
+O contrato poderá ser rescindido por conveniência administrativa ou por descumprimento de uma das partes (CONSULTOR ou CONTRATANTE), de qualquer uma das cláusulas, assegurados o contraditório e a ampla defesa e com antecedência mínima de 15 (quinze) dias
 úteis.
-CLÁUSULA DÉCIMA QUINTA – Dos débitos para com a Fazenda Pública
-Os débitos do Consultor para com o Distrito Federal, decorrentes ou não do ajuste, serão
-inscritos em Dívida Ativa e cobrados mediante execução na forma da legislação pertinente,
-podendo, quando for o caso, ensejar a rescisão unilateral do Contrato.
-19GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-CLÁUSULA DÉCIMA SEXTA – Do Executor
-O Distrito Federal, por meio de ______________, designará um Executor para o Contrato,
-que desempenhará as atribuições previstas nas Normas de Execução Orçamentária, Financeira
-e Contábil, bem como a supervisão, o acompanhamento dos serviços de consultoria e a
+
+## CLÁUSULA DÉCIMA QUINTA – Dos débitos para com a Fazenda Pública
+Os débitos do Consultor para com o Distrito Federal, decorrentes ou não do ajuste, serão inscritos em Dívida Ativa e cobrados mediante execução na forma da legislação pertinente, podendo, quando for o caso, ensejar a rescisão unilateral do Contrato.
+
+## CLÁUSULA DÉCIMA SEXTA – Do Executor
+O Distrito Federal, por meio de ______________, designará um Executor para o Contrato, que desempenhará as atribuições previstas nas Normas de Execução Orçamentária, Financeira e Contábil, bem como a supervisão, o acompanhamento dos serviços de consultoria e a
 aprovação das atividades previstas no Termo de Referência, objeto deste contrato.
-CLÁUSULA DÉCIMA SÉTIMA - Da Publicação e do Registro
-A eficácia do Contrato fica condicionada à publicação resumida do instrumento pela
-Administração, na Imprensa Oficial, até o quinto dia útil do mês seguinte ao de sua assinatura,
-para ocorrer no prazo de vinte dias daquela data.
-CLÁUSULA DÉCIMA OITAVA: Das Disposições Gerais
-O presente Contrato não cria vínculo empregatício entre o CONTRATANTE e o
-CONSULTOR, sendo de exclusiva responsabilidade deste todas as contribuições legalmente
-exigidas.
-CLÁUSULA DÉCIMA NONA – Do Foro
-Fica eleito o foro de Brasília, Distrito Federal, para dirimir quaisquer dúvidas relativas ao
-cumprimento do presente Contrato.
-Estando assim justas e contratadas, firmam as partes o presente instrumento, em 04 (quatro)
-vias de igual teor e forma, na presença das testemunhas abaixo nominadas e assinadas.
+
+## CLÁUSULA DÉCIMA SÉTIMA - Da Publicação e do Registro
+A eficácia do Contrato fica condicionada à publicação resumida do instrumento pela Administração, na Imprensa Oficial, até o quinto dia útil do mês seguinte ao de sua assinatura, para ocorrer no prazo de vinte dias daquela data.
+
+## CLÁUSULA DÉCIMA OITAVA: Das Disposições Gerais
+O presente Contrato não cria vínculo empregatício entre o CONTRATANTE e o CONSULTOR, sendo de exclusiva responsabilidade deste todas as contribuições legalmente exigidas.
+
+## CLÁUSULA DÉCIMA NONA – Do Foro
+Fica eleito o foro de Brasília, Distrito Federal, para dirimir quaisquer dúvidas relativas ao cumprimento do presente Contrato.
+Estando assim justas e contratadas, firmam as partes o presente instrumento, em 04 (quatro) vias de igual teor e forma, na presença das testemunhas abaixo nominadas e assinadas.
+
 Brasília, _____ de ___________ de 2012.
 Pelo Distrito Federal:
 ______________________________________
