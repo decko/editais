@@ -1,201 +1,114 @@
-GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-EDITAL 08/2012 - CÓDIGO – GEO
-EDITAL PARA CONTRATAÇÃO DE CONSULTOR INDIVIDUAL PARA
-DESENVOLVER SISTEMA DE INFORMAÇÕES GEOGRÁFICAS EM
-SOFTWARE LIVRE PARA WEB, VISANDO O GEOPROCESSAMENTO E
-CRIAÇÃO DE INFOGRÁFICOS PARA SUBSIDIAREM OS TRABALHOS DOS
-CONSELHEIROS DO CDES-DF E OS TRABALHOS DO OBSERVATÓRIO DA
-PARTICIPAÇÃO SOCIAL DO DF.
-1. CONTEXTUALIZAÇÃO
-O Governo do Distrito Federal celebra com o Banco Internacional para Reconstrução
-e Desenvolvimento – BIRD, Acordo de Empréstimo para financiar o Programa de
-Modernização da Gestão Pública do Distrito Federal – “Programa Gestão GDF”, cujo
-objetivo principal é melhorar a qualidade do atendimento à população nas áreas de
-educação, saúde e transporte, por meio da modernização da gestão pública e pela adoção
-de instrumentos que possibilitem auferir resultados em cada setor, acompanhar a execução
-das atividades e promover eventuais ajustes.
-O Programa Gestão GDF se insere no contexto das políticas públicas que o Distrito
-Federal deverá implementar nos próximos anos e tem como principal objetivo enfrentar as
-deficiências identificadas na administração pública, com vistas a oferecer serviços públicos
-com melhor qualidade e reduzido custo para a população.
-A implementação do Programa de Modernização da Gestão Pública do Distrito
-Federal prevê sua estruturação em dois componentes básicos. O Componente 1 engloba
-ações e atividades para a melhoria da prestação dos serviços públicos de Saúde, Educação
-e Transporte, e também para a modernização da gestão pública. O Componente 2 ficará
-responsável pela assistência técnica, e apoiará as atividades de desenvolvimento e
-fortalecimento dos instrumentos de monitoramento e avaliação para o Modelo de Gestão
-por resultados, sendo focado na melhoria da gestão pública.
-O Programa tem previsão de três anos de duração e será executado conjuntamente
-pela Secretaria de Estado de Planejamento e Orçamento (SEPLAN), Secretaria de Estado
-1GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-de Educação (SEE), Secretaria de Estado de Saúde (SES), Secretaria de Estado de
-Transporte (SET) e DFTRANS.
-A Coordenação do Programa – UCP será efetuada pela Secretaria de Estado de
-Planejamento e Orçamento (SEPLAN), sob a supervisão direta do Secretário da SEPLAN.
-Neste sentido, a Secretaria de Estado de Governo do Distrito Federal – SEG deseja
-dispor dos serviços profissionais de um consultor técnico para realizar plotagem de
-informações estatísticas pertinentes dos mapas das regiões administrativas
-A Secretaria de Governo do Distrito Federal é área de governo responsável pelo
-diálogo social, ou seja, por coordenar a articulação do GDF com a sociedade civil, com
-vistas à consolidação de uma gestão pública participava e interativa, voltada para o
-cidadão. Entre as ações que desenvolve, consta o acompanhamento às Conferências e
-Conselhos de políticas públicas, orçamento participativo, audiências públicas, entre outros
-mecanismos de participação social. Em destaque estão duas iniciativas: a coordenação do
-Conselho de Desenvolvimento Econômico e Social do Distrito Federal – CDES DF, e o
-Observatório da Participação Social.
-O CDES DF, baseado na exitosa experiência do governo federal brasileiro – e de
-governos estaduais como os da Bahia, Rio Grande do Sul e Pernambuco, e de outros
-países, como Espanha, Portugal, Coréia do Sul – se constitui em uma metodologia de
-governança onde estão reunidos os principais empresários, lideranças dos movimentos
-sociais e personalidades (intelectuais e formadores de opinião), além de representante do
-primeiro escalão do governo, em torno do objetivo de construírem propostas para o
-desenvolvimento estratégico do DF para as próximas décadas. O Observatório da
-Participação Social reúne instituições de pesquisa como o IPEA, a CODEPLAN, a
-Universidade de Brasília – UNB, a Universidade Católica de Brasília – UNB e o Centro
-Universitário de Brasília – CEUB, além do GDF e de várias instituições da sociedade civil,
-com o objetivo de analisar e divulgar informações estratégicas que possibilitem à
-participação social alcançar níveis elevados de efetividade junto ao GDF.
-A consultoria proposta visa consolidar uma metodologia de geoprocessamento de
-dados que possa ser utilizada tanto pelo CDES DF como pelo Observatório da Participação
-Social. Além de ser uma ferramenta de grande utilidade para a tomada de decisão, a
-2GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-possibilidade de plotagem de dados, estudos e propostas em mapas, na proposta aqui
-apresentada, prevê a interatividade entre governo e sociedade civil. As bases a serem
-construídas serão compartilhadas entre gestores e representantes da participação social,
-possibilitando a criação de infográficos e o georreferenciamento das informações utilizadas
-por conselheiros do CDES DF e por representantes dos diversos mecanismos de
-participação social alvo do Observatório da Participação Social.
+## GOVERNO DO DISTRITO FEDERAL
+## SECRETARIA DE ESTADO DE GOVERNO
+## EDITAL 08/2012 - CÓDIGO – GEO
+
+### EDITAL PARA CONTRATAÇÃO DE CONSULTOR INDIVIDUAL PARA DESENVOLVER SISTEMA DE INFORMAÇÕES GEOGRÁFICAS EM SOFTWARE LIVRE PARA WEB, VISANDO O GEOPROCESSAMENTO E CRIAÇÃO DE INFOGRÁFICOS PARA SUBSIDIAREM OS TRABALHOS DOS CONSELHEIROS DO CDES-DF E OS TRABALHOS DO OBSERVATÓRIO DA PARTICIPAÇÃO SOCIAL DO DF. 1. CONTEXTUALIZAÇÃO
+
+O Governo do Distrito Federal celebra com o Banco Internacional para Reconstrução e Desenvolvimento – BIRD, Acordo de Empréstimo para financiar o Programa de Modernização da Gestão Pública do Distrito Federal – “Programa Gestão GDF”, cujo objetivo principal é melhorar a qualidade do atendimento à população nas áreas de educação, saúde e transporte, por meio da modernização da gestão pública e pela adoção de instrumentos que possibilitem auferir resultados em cada setor, acompanhar a execução das atividades e promover eventuais ajustes.
+
+O Programa Gestão GDF se insere no contexto das políticas públicas que o Distrito Federal deverá implementar nos próximos anos e tem como principal objetivo enfrentar as deficiências identificadas na administração pública, com vistas a oferecer serviços públicos com melhor qualidade e reduzido custo para a população.
+
+A implementação do Programa de Modernização da Gestão Pública do Distrito Federal prevê sua estruturação em dois componentes básicos. O Componente 1 engloba ações e atividades para a melhoria da prestação dos serviços públicos de Saúde, Educação e Transporte, e também para a modernização da gestão pública. O Componente 2 ficará responsável pela assistência técnica, e apoiará as atividades de desenvolvimento e fortalecimento dos instrumentos de monitoramento e avaliação para o Modelo de Gestão por resultados, sendo focado na melhoria da gestão pública.
+
+O Programa tem previsão de três anos de duração e será executado conjuntamente pela Secretaria de Estado de Planejamento e Orçamento (SEPLAN), Secretaria de Estado de Educação (SEE), Secretaria de Estado de Saúde (SES), Secretaria de Estado de Transporte (SET) e DFTRANS.
+
+A Coordenação do Programa – UCP será efetuada pela Secretaria de Estado de Planejamento e Orçamento (SEPLAN), sob a supervisão direta do Secretário da SEPLAN.
+
+Neste sentido, a  do Distrito Federal – SEG deseja dispor dos serviços profissionais de um consultor técnico para realizar plotagem de informações estatísticas pertinentes dos mapas das regiões administrativas A Secretaria de Governo do Distrito Federal é área de governo responsável pelo diálogo social, ou seja, por coordenar a articulação do GDF com a sociedade civil, com vistas à consolidação de uma gestão pública participava e interativa, voltada para o cidadão. Entre as ações que desenvolve, consta o acompanhamento às Conferências e Conselhos de políticas públicas, orçamento participativo, audiências públicas, entre outros mecanismos de participação social. Em destaque estão duas iniciativas: a coordenação do Conselho de Desenvolvimento Econômico e Social do Distrito Federal – CDES DF, e o Observatório da Participação Social.
+
+O CDES DF, baseado na exitosa experiência do governo federal brasileiro – e de governos estaduais como os da Bahia, Rio Grande do Sul e Pernambuco, e de outros países, como Espanha, Portugal, Coréia do Sul – se constitui em uma metodologia de governança onde estão reunidos os principais empresários, lideranças dos movimentos sociais e personalidades (intelectuais e formadores de opinião), além de representante do primeiro escalão do governo, em torno do objetivo de construírem propostas para o desenvolvimento estratégico do DF para as próximas décadas. O Observatório da Participação Social reúne instituições de pesquisa como o IPEA, a CODEPLAN, a Universidade de Brasília – UNB, a Universidade Católica de Brasília – UNB e o Centro Universitário de Brasília – CEUB, além do GDF e de várias instituições da sociedade civil, com o objetivo de analisar e divulgar informações estratégicas que possibilitem à participação social alcançar níveis elevados de efetividade junto ao GDF.
+
+A consultoria proposta visa consolidar uma metodologia de geoprocessamento de dados que possa ser utilizada tanto pelo CDES DF como pelo Observatório da Participação Social. Além de ser uma ferramenta de grande utilidade para a tomada de decisão, a possibilidade de plotagem de dados, estudos e propostas em mapas, na proposta aqui apresentada, prevê a interatividade entre governo e sociedade civil. As bases a serem construídas serão compartilhadas entre gestores e representantes da participação social, possibilitando a criação de infográficos e o georreferenciamento das informações utilizadas por conselheiros do CDES DF e por representantes dos diversos mecanismos de participação social alvo do Observatório da Participação Social.
+
 2. OBJETIVO GERAL
-Contratar consultor individual para desenvolver sistema de informações geográficas em
-software livre para web visando o geoprocessamento e criação de infográficos para
-subsidiarem os trabalhos dos conselheiros do CDES-DF e os trabalhos do Observatório da
-Participação Social do DF.
+
+Contratar consultor individual para desenvolver sistema de informações geográficas em software livre para web visando o geoprocessamento e criação de infográficos para subsidiarem os trabalhos dos conselheiros do CDES-DF e os trabalhos do Observatório da Participação Social do DF.
+
 3. ATIVIDADES A SEREM DESENVOLVIDAS
-O consultor técnico deverá desenvolver as atividades e apresentar os seguintes
-produtos:
-i)
-Relatório 1: Sistema web de georreferenciamento em software livre,
-contendo bases cartográficas do território do Distrito Federal e Entorno, suas
-estruturas menores com alimentação de informações oriundas de até 5
-indicadores sociais;
-ii)
-Relatório 2: Relatório final contendo metodologia de alimentação da base
-cartográfica e da base de indicadores.
-Além disso, o consultor deverá, sempre que solicitado pela contratante:
-a.
-Discutir com os servidores do GDF diretamente envolvidos com a
-participação social no DF e com os representantes da sociedade civil
-integrantes do observatório da participação social e do CDES DF as
-atividades realizadas e os documentos, relatórios e propostas elaboradas no
-3GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-curso da consultoria, visando à disseminação dos conhecimentos e conteúdos
-abordados.
+
+O consultor técnico deverá desenvolver as atividades e apresentar os seguintes produtos:
+
+i) Relatório 1: Sistema web de georreferenciamento em software livre, contendo bases cartográficas do território do Distrito Federal e Entorno, suas estruturas menores com alimentação de informações oriundas de até 5 indicadores sociais;
+
+ii) Relatório 2: Relatório final contendo metodologia de alimentação da base cartográfica e da base de indicadores.
+
+Além disso, o consultor deverá, sempre que solicitado pela contratante: a.
+
+Discutir com os servidores do GDF diretamente envolvidos com a participação social no DF e com os representantes da sociedade civil integrantes do observatório da participação social e do CDES DF as atividades realizadas e os documentos, relatórios e propostas elaboradas no curso da consultoria, visando à disseminação dos conhecimentos e conteúdos abordados.
+
 4. ASPECTOS DA CONTRATAÇÃO
+
 a) Prazo da contratação:
+
 O prazo de vigência será de 45 dias.
+
 b) Valor da Contratação:
+
 O valor máximo do investimento será de R$ 17.000,00 (dezessete mil reais).
+
 c) Forma de Pagamento:
-O pagamento será efetuado em 2 (duas) parcelas, mediante a autorização do
-Secretário de Estado de Governo, da seguinte forma:
-i) 1a parcela, correspondente a 40% do valor total do contrato, no prazo de
-até 25 dias, a contar da assinatura do contrato, e mediante a apresentação do
-Relatório 1 constante do item 3 deste Termo de Referência;
-ii) 2a parcela, correspondente a 60% do valor total do contrato, no prazo de
-até 45 dias, a contar da assinatura do contrato, e mediante a apresentação do
-Relatório 2 constante do item 3 deste Termo de Referência.
-A Secretaria de Estado de Governo do DF poderá suspender o pagamento das
-parcelas, caso o andamento das atividades, trabalhos e/ou produtos a serem desenvolvidos
-pelo consultor não estejam sendo realizados de acordo com o previsto neste Termo de
-Referência.
+
+O pagamento será efetuado em 2 (duas) parcelas, mediante a autorização do Secretário de Estado de Governo, da seguinte forma:
+
+i) 1a parcela, correspondente a 40% do valor total do contrato, no prazo de até 25 dias, a contar da assinatura do contrato, e mediante a apresentação do Relatório 1 constante do item 3 deste Termo de Referência;
+
+ii) 2a parcela, correspondente a 60% do valor total do contrato, no prazo de até 45 dias, a contar da assinatura do contrato, e mediante a apresentação do Relatório 2 constante do item 3 deste Termo de Referência.
+
+A SECRETARIA DE ESTADO DE GOVERNO do DF poderá suspender o pagamento das parcelas, caso o andamento das atividades, trabalhos e/ou produtos a serem desenvolvidos pelo consultor não estejam sendo realizados de acordo com o previsto neste Termo de Referência.
+
 d) Outros aspectos da Contratação:
-Haverá a possibilidade de negociação entre as partes dos aspectos da contratação
-antes da assinatura do contrato, a exceção do valor máximo estabelecido para a contratação
-e a forma de pagamento.
-4GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-Caso o consultor contratado resida comprovadamente fora de Brasília-DF e tenha
-que se deslocar, por solicitação da Secretaria de Estado de Governo, para cumprimento das
-atividades imprescindíveis ao desenvolvimento das atividades estabelecidas neste Termo
-de Referência, as despesas com a cobertura de diárias e passagens serão custeadas com
-recursos do “Programa Gestão GDF” até o limite estabelecido abaixo:
-i)
-Valor da diária: R$ 385,60. Limite máximo a ser pago com diárias para a
-contratação: R$ 5.784,00;
-ii)
-Limite máximo a ser pago com passagens para a contratação: R$ 5.000,00.
+
+Haverá a possibilidade de negociação entre as partes dos aspectos da contratação antes da assinatura do contrato, a exceção do valor máximo estabelecido para a contratação e a forma de pagamento.
+
+Caso o consultor contratado resida comprovadamente fora de Brasília-DF e tenha que se deslocar, por solicitação da , para cumprimento das atividades imprescindíveis ao desenvolvimento das atividades estabelecidas neste Termo de Referência, as despesas com a cobertura de diárias e passagens serão custeadas com recursos do “Programa Gestão GDF” até o limite estabelecido abaixo:
+
+i) Valor da diária: R$ 385,60. Limite máximo a ser pago com diárias para a contratação: R$ 5.784,00;
+
+ii) Limite máximo a ser pago com passagens para a contratação: R$ 5.000,00.
+
 5. RELATÓRIO E PRODUTOS
-Os Relatórios, elaborados em linguagem clara e seguindo as normas da ABNT,
-devem ser compostos por informações e documentos lógicos, concisos e fundamentados,
-que relatem e contenham as atividades e trabalhos desenvolvidos de acordo com o item 3
-deste Termo de Referência.
-Sempre que pertinente, os Relatórios deverão conter, também, a metodologia do
-trabalho realizado e os anexos necessários, como, a exemplo, os documentos consultados
-durante a consultoria.
-Os Relatórios devem conter, ainda, capa, sumário, introdução, descrição dos
-serviços, atividades, propostas, recomendações e, se for o caso, resultados alcançados pela
-consultoria.
-Os Relatórios devem ser apresentados em 1 (uma) via, sob a forma de minuta e, uma
-vez aprovado pela Secretaria de Estado de Governo do DF, deverão ser apresentados em 3
-(três) vias, na sua forma definitiva, e, também, em meio magnético.
-O Sistema citado no produto 1 deve ser capaz de apresentar saída de informações
-compatível com os navegadores de última geração, plataformas móveis e sem a utilização
-de tecnologias proprietárias.
-5GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
+
+Os Relatórios, elaborados em linguagem clara e seguindo as normas da ABNT, devem ser compostos por informações e documentos lógicos, concisos e fundamentados, que relatem e contenham as atividades e trabalhos desenvolvidos de acordo com o item 3 deste Termo de Referência.
+
+Sempre que pertinente, os Relatórios deverão conter, também, a metodologia do trabalho realizado e os anexos necessários, como, a exemplo, os documentos consultados durante a consultoria.
+
+Os Relatórios devem conter, ainda, capa, sumário, introdução, descrição dos serviços, atividades, propostas, recomendações e, se for o caso, resultados alcançados pela consultoria.
+
+Os Relatórios devem ser apresentados em 1 (uma) via, sob a forma de minuta e, uma vez aprovado pela  do DF, deverão ser apresentados em 3 (três) vias, na sua forma definitiva, e, também, em meio magnético.
+
+O Sistema citado no produto 1 deve ser capaz de apresentar saída de informações compatível com os navegadores de última geração, plataformas móveis e sem a utilização de tecnologias proprietárias.
+
 6. CONDIÇÕES GERAIS
-1. Este processo seletivo constará de análise e avaliação curricular, conforme critérios
-de avaliação constantes do Anexo I.
-2.
-Os interessados deverão enviar currículo para: Coordenadoria de Articulação
-Intergovernamental, Secretaria de Estado de Governo do Distrito Federal – SEG,
-Ed. Anexo do Palácio do Buriti, 11o andar, Protocolo – CEP 70075-900 –
-Brasília/DF, aos cuidados do Coordenador-Chefe Reinaldo Chaves Gomes.
-3. A Comissão Julgadora, nomeada por meio de Ordem de Serviço específica, será
-composta por 3 (três) integrantes da Secretaria de Estado de Governo.
-4. A Comissão Julgadora fará a pré-seleção dos currículos que contiverem os
-Requisitos Obrigatórios exigidos neste Termo de Referência.
-5. Após análise, a Comissão Julgadora encaminhará o nome do candidato aprovado
-para o Secretário de Estado de Governo – SEG para homologação do resultado, o
-qual deverá ser devidamente publicado.
-6. O candidato aprovado neste processo seletivo deverá comprovar, com documento
-original ou cópia autenticada, todas as informações declaradas no seu currículo.
-7. A comprovação de que trata o item anterior é condição sine qua non para a
-celebração do contrato de consultoria.
-8. Caberá recurso no prazo de 02 (dois) dias úteis, a contar da homologação do
-resultado
-da
-seleção,
-direcionado
-à
-Coordenadoria
-de
-Articulação
-Intergovernamental, Secretaria de Estado de Governo – SEG que julgará pela
-procedência ou improcedência do mesmo.
-9. Uma vez esgotados os prazos recursais, não caberá mais quaisquer tipos de
-impugnação administrativa quanto aos atos do Processo Seletivo.
-10. O acompanhamento da consultoria será efetuado pela Secretaria de Estado de
-Governo.
-11. A consultoria atuará em Brasília-DF, na SEG, que disponibilizará local para
-reuniões, discussões técnicas e apresentação de produtos, assim como facilitará o
-6GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
-acesso do consultor às informações pertinentes à sua área de atuação, agendará
-reuniões e participará das mesmas com as demais equipes coexecutoras das
-atividades e projetos.
+
+1. Este processo seletivo constará de análise e avaliação curricular, conforme critérios de avaliação constantes do Anexo I.
+
+2. Os interessados deverão enviar currículo para: Coordenadoria de Articulação Intergovernamental, SECRETARIA DE ESTADO DE GOVERNO do Distrito Federal – SEG, Ed. Anexo do Palácio do Buriti, 11o andar, Protocolo – CEP 70075-900 – Brasília/DF, aos cuidados do Coordenador-Chefe Reinaldo Chaves Gomes.
+
+3. A Comissão Julgadora, nomeada por meio de Ordem de Serviço específica, será composta por 3 (três) integrantes da SECRETARIA DE ESTADO DE GOVERNO.
+
+4. A Comissão Julgadora fará a pré-seleção dos currículos que contiverem os Requisitos Obrigatórios exigidos neste Termo de Referência.
+
+5. Após análise, a Comissão Julgadora encaminhará o nome do candidato aprovado para o Secretário de Estado de Governo – SEG para homologação do resultado, o qual deverá ser devidamente publicado.
+
+6. O candidato aprovado neste processo seletivo deverá comprovar, com documento original ou cópia autenticada, todas as informações declaradas no seu currículo.
+
+7. A comprovação de que trata o item anterior é condição sine qua non para a celebração do contrato de consultoria.
+
+8. Caberá recurso no prazo de 02 (dois) dias úteis, a contar da homologação do resultado da seleção, direcionado à Coordenadoria de Articulação Intergovernamental,SECRETARIA DE ESTADO DE GOVERNO – SEG que julgará pela procedência ou improcedência do mesmo.
+
+9. Uma vez esgotados os prazos recursais, não caberá mais quaisquer tipos de impugnação administrativa quanto aos atos do Processo Seletivo.
+
+10. O acompanhamento da consultoria será efetuado pela Secretaria de Estado de Governo.
+
+11. A consultoria atuará em Brasília-DF, na SEG, que disponibilizará local para reuniões, discussões técnicas e apresentação de produtos, assim como facilitará o acesso do consultor às informações pertinentes à sua área de atuação, agendará reuniões e participará das mesmas com as demais equipes coexecutoras das atividades e projetos. 
+
 Brasília, 18 de outubro de 2012.
 REINALDO CHAVES GOMES
 Coordenador-Chefe de Articulação Intergovernamental
 Aprovo o presente Termo de Referência.
 GUSTAVO PONCE DE LEON SORIANO LAGO
 Secretário de Estado de Governo
-7GOVERNO DO DISTRITO FEDERAL
-SECRETARIA DE ESTADO DE GOVERNO
+
 ANEXO I
 CRITÉRIOS DE AVALIAÇÃO
 Esta seleção obedecerá ao disposto no Capítulo V - Seleção de Consultores
